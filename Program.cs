@@ -10,7 +10,7 @@ namespace DemoApplication
     {
         static void Main(string[] args)
         {
-            // hello world
+            // hello svc!
         }
     }
 }
