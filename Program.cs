@@ -11,6 +11,8 @@ namespace DemoApplication
         static void Main(string[] args)
         {
             // hello svc!
+            Console.WriteLine("Hello world");
+            Console.Read();
         }
     }
 }
