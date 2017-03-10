@@ -12,6 +12,7 @@ namespace DemoApplication
         {
             // hello svc!
             Console.WriteLine("Hello world");
+            Console.WriteLine("Hey from staging");
             Console.Read();
         }
     }
