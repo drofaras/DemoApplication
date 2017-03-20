@@ -10,7 +10,7 @@ namespace DemoApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Happy Birthday Visual Studio!!");
         }
     }
 }
